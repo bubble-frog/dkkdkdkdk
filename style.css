@@ -1,0 +1,14 @@
+body{
+    background-image:url(897309529b514a2069b9e770a82542cd.jpg);
+    background-size:cover;
+}
+
+.copy_right_footer{
+    bottom:0;
+    left:0;
+    text-align: center;
+    line-height:3;
+    background-color:white;
+    position:absolute;
+    width:100%;
+}
